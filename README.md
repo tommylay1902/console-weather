@@ -1,4 +1,4 @@
-# console-weather
+# Console-Weather-Application
 simple node.js console application that calls to two APIs to figure out the temperature within your location
 
 # How to use
