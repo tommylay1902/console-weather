@@ -12,5 +12,5 @@ Located within the utils/geocode.js, insert into access_key your API key
 Within the terminal, direct yourself to the directory that app.js is located in then the command:  
 **node app.js**  
 
-Followed by the location you want to check the weather in your location, he more specific the more easier the api to find your exact location (city state country)  
+Followed by the location you want to check the weather in your location, the more specific the more easier it is for the api to find your exact location (city state country)  
 So the following command like **node app.js Los Angeles California** will show the temperature for that location
