@@ -1,5 +1,6 @@
 const request = require("request");
-const access_key = "insert api access key here";
+const access_key =
+    "pk.eyJ1IjoidG9tbXlsYXkxOTAyIiwiYSI6ImNrZnBpeGpzbzAwMDYyeG9laWV0aWoyOHkifQ.rcrFJeiPT6VfuYepeOgGEg";
 const geocode = (address) => {
     const url = `https://api.mapbox.com/geocoding/v5/mapbox.places/"${encodeURIComponent(
         address
